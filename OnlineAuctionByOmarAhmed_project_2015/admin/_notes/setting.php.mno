@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_setting" value="name:id_site;datatype:int,name:site_name;datatype:string,name:site_url;datatype:string,name:site_email;datatype:string,name:site_keyword;datatype:string,name:site_dies;datatype:string,name:site_statu;datatype:string,name:site_closed_msg;datatype:string,name:site_face;datatype:string,name:site_pic;datatype:string" />
+</info>

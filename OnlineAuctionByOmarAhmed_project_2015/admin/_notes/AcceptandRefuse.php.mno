@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Id;datatype:int,name:user_id;datatype:int,name:Accept_Refuse;datatype:int,name:imgName;datatype:blob,name:Name;datatype:string,name:Currency;datatype:string,name:StartPrice;datatype:int,name:BuyNowPrice;datatype:int,name:Status;datatype:string,name:Country;datatype:string,name:City;datatype:string,name:pic;datatype:string,name:category;datatype:string,name:Contact;datatype:blob,name:Description;datatype:blob,name:expired_date;datatype:blob,name:posted_date;datatype:datetime,name:Accept_Refuse_date;datatype:datetime" />
+</info>

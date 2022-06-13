@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_users" value="name:user_id;datatype:int,name:user_f_name;datatype:string,name:user_l_name;datatype:string,name:username;datatype:string,name:user_password;datatype:string,name:user_phone;datatype:int,name:user_email;datatype:string,name:country;datatype:string,name:level;datatype:string,name:reg_date;datatype:datetime" />
+	<infoitem key="UD_search" value="name:user_id;datatype:int,name:user_f_name;datatype:string,name:user_l_name;datatype:string,name:username;datatype:string,name:user_password;datatype:string,name:user_phone;datatype:int,name:user_email;datatype:string,name:country;datatype:string,name:level;datatype:string,name:reg_date;datatype:datetime" />
+</info>

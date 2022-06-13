@@ -1,0 +1,81 @@
+/* Credit: http://www.OMAR_STYLE_.com */
+
+/* How to do full page background image - http://css-tricks.com/perfect-full-page-background-image/ */
+/* carasmo's comment to hide horizontal scroll bar https://github.com/twbs/bootstrap/issues/10711 */
+
+*{
+	padding: 0px;
+	outline: 0px;
+	margin: 0px;
+	
+	
+	
+}
+
+
+
+a { 
+	text-decoration: none;
+	 color: #555; }
+a:hover, a:focus { color: #000; }
+
+
+body { background:#f9f9f9;
+color:#000;
+font-family:Tahoma;
+ direction: ltr;
+
+}
+
+
+
+.head_o{ background:#0CF;
+margin:7px 2px 0px 2px;
+color:#fff;
+text-align:center;
+padding:7px;}
+
+
+.no_o{ background: #C03;
+
+margin:7px 2px 0px 2px;
+color:#fff;
+text-align:center;
+padding:7px;}
+
+
+
+.ok_o{ background: #3CF;
+
+margin:7px 2px 0px 2px;
+color:#30C;
+text-align:center;
+padding:7px;}
+
+
+
+
+
+.AdmnBut_O_A { border: 3px solid #0CF; border-radius: 7px; color: #0361A8; display: inline-block; font-size: 1.00em;  padding: 3px;  }
+
+
+.bodypanel{ background-color: #3FF;
+
+margin:0px 2px 7px 2px;
+color:#000;
+text-align:center;
+padding:7px;}
+
+
+
+
+
+#navbarad ul{list-style: none;  }
+#navbarad ul li{ float: left; border: 2px inset #FFF; }
+#navbarad ul li a{  dispay: block;  background-color:#666; padding: 12px; color:#fff; text-decoration:none;   border: 4px ridge #0CF ; }
+#navbarad ul li a:hover{background-color:#CCC;  color:#000;   border: 4px ridge #0CF ;  }
+
+
+
+
+
